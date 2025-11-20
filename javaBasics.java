@@ -81,6 +81,6 @@ public class javaBasics {
     }
 
     public static void main(String args[]){
-        printMyName(6);
+        printMyName(9);
     }
 }
